@@ -1,0 +1,11 @@
+#!/bin/sh
+for x
+do
+  awk 'NR>2' $x |
+  awk -F, '$7 ~ /P/ { print $3 "|" $10 "|" $11 "|" $1 "|" $2 }' |
+  sed 's/"//g' |
+  awk -F"|" '$5 !~ /PR|VI|GU/' |
+  awk -F"|" '$2 > 0 && $3 < 0' |
+  sort |
+  sed -f sedaddheader
+done

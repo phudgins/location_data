@@ -1,0 +1,282 @@
+MA  ST Population Central City
+004 TX     269445 Abilene                                           
+006 PR     248253 Aguadilla                                         
+007 MA    6362286 Boston-Worcester-Lawrence, MA-NH-ME-CT            
+012 GA     417080 Albany                                            
+014 IL    9496915 Chicago-Gary-Kenosha, IL-IN-WI                    
+016 NY    1079836 Albany-Schenectady-Troy                           
+020 NM    1030186 Albuquerque                                       
+021 OH    2278269 Cincinnati-Hamilton, OH-KY-IN                     
+022 LA     390072 Alexandria                                        
+024 PA     736589 Allentown-Bethlehem-Easton                        
+027 PA     169717 Altoona                                           
+028 OH    3158614 Cleveland-Akron                                   
+031 TX    5691967 Dallas-Fort Worth                                 
+032 TX     527015 Amarillo                                          
+034 CO    2890257 Denver-Boulder-Greeley                            
+035 MI    5619690 Detroit-Ann Arbor-Flint                           
+038 AK     624992 Anchorage                                         
+042 TX    4934501 Houston-Galveston-Brazoria                        
+045 AL     185851 Anniston                                          
+046 WI     550711 Appleton-Oshkosh-Neenah                           
+048 NC     419820 Asheville                                         
+049 CA   16517400 Los Angeles-Riverside-Orange County               
+050 GA     289145 Athens                                            
+052 GA    4822988 Atlanta                                           
+056 FL    3955907 Miami-Fort Lauderdale                             
+058 AL     180169 Auburn-Opelika                                    
+060 GA     660677 Augusta-Aiken, GA-SC                              
+063 WI    1819114 Milwaukee-Racine                                  
+064 TX    1381159 Austin-San Marcos                                 
+068 CA     665223 Bakersfield                                       
+070 NY   21548389 New York-Northern New Jersey-Long Island, NY-NJ-CT
+073 ME     420267 Bangor                                            
+074 MA     247670 Barnstable-Yarmouth                               
+076 LA     813601 Baton Rouge                                       
+077 PA    6228947 Philadelphia-Wilmington-Atlantic City, PA-NJ-DE-MD
+079 OR    2634232 Portland-Vancouver, OR-WA                         
+082 CA    1998276 Sacramento-Yolo                                   
+083 TX     470889 Beaumont-Port Arthur                              
+084 CA    7188604 San Francisco-Oakland-San Jose                    
+086 WA     217671 Bellingham                                        
+087 MI     188318 Benton Harbor                                     
+089 PR    2652754 San Juan-Caguas-Arecibo                           
+088 MT     283219 Billings                                          
+091 WA    3974171 Seattle-Tacoma-Bremerton                          
+092 MS     401462 Biloxi-Gulfport-Pascagoula                        
+096 NY     444078 Binghamton                                        
+097 DC    8148625 Washington-Baltimore, DC-MD-VA-WV                 
+100 AL    1083451 Birmingham                                        
+101 ND     360090 Bismarck                                          
+102 IN     218263 Bloomington                                       
+104 IL     183810 Bloomington-Normal                                
+108 ID     677804 Boise                                             
+124 TX     341455 Brownsville-Harlingen-San Benito                  
+126 TX     254952 Bryan-College Station                             
+128 NY    1252038 Buffalo-Niagara Falls                             
+130 VT     542679 Burlington                                        
+132 OH     566611 Canton-Massillon                                  
+135 WY     205591 Casper                                            
+136 IA     265378 Cedar Rapids                                      
+140 IL     305433 Champaign-Urbana                                  
+144 SC     714744 Charleston-North Charleston                       
+148 WV     571708 Charleston                                        
+152 NC    1882759 Charlotte-Gastonia-Rock Hill, NC-SC               
+154 VA     439375 Charlottesville                                   
+156 TN     831016 Chattanooga, TN-GA                                
+158 WY     192962 Cheyenne                                          
+162 CA     259739 Chico-Paradise                                    
+166 TN     535994 Clarksville-Hopkinsville, TN-KY                   
+172 CO     633264 Colorado Springs                                  
+174 MO     476146 Columbia                                          
+176 SC     700059 Columbia                                          
+180 GA     401927 Columbus, GA-AL                                   
+184 OH    2012453 Columbus                                          
+188 TX     506604 Corpus Christi                                    
+189 OR     100327 Corvallis                                         
+190 MD     210023 Cumberland, MD-WV                                 
+195 VA     239401 Danville                                          
+196 IA     691855 Davenport-Moline-Rock Island, IA-IL               
+200 OH    1109498 Dayton-Springfield                                
+202 FL     504512 Daytona Beach                                     
+203 AL     271778 Decatur                                           
+204 IL     206081 Decatur                                           
+212 IA     941125 Des Moines                                        
+218 AL     293790 Dothan                                            
+219 DE     381923 Dover                                             
+220 IA     218200 Dubuque                                           
+224 MN     503352 Duluth-Superior, MN-WI                            
+229 WI     251121 Eau Claire                                        
+232 TX     778930 El Paso                                           
+233 IN     305596 Elkhart-Goshen                                    
+234 NY     197541 Elmira                                            
+235 OK     142492 Enid                                              
+236 PA     326810 Erie                                              
+240 OR     598963 Eugene-Springfield                                
+244 IN     670842 Evansville-Henderson, IN-KY                       
+252 ND     397414 Fargo-Moorhead, ND-MN                             
+256 NC     589524 Fayetteville                                      
+258 AR     441933 Fayetteville-Springdale-Rogers                    
+262 AZ     473773 Flagstaff, AZ-UT                                  
+265 AL     410587 Florence                                          
+266 SC     287117 Florence                                          
+267 CO     281897 Fort Collins-Loveland                             
+270 FL     448610 Fort Myers-Cape Coral                             
+271 FL     406706 Fort Pierce-Port St. Lucie                        
+272 AR     428844 Fort Smith, AR-OK                                 
+275 FL     260929 Fort Walton Beach                                 
+276 IN     754989 Fort Wayne                                        
+284 CA    1009680 Fresno                                            
+288 AL     212143 Gadsden                                           
+290 FL     401290 Gainesville                                       
+292 NY     328098 Glens Falls                                       
+294 NC     203709 Goldsboro                                         
+296 ND     314732 Grand Forks, ND-MN                                
+298 CO     363314 Grand Junction                                    
+300 MI    1378570 Grand Rapids-Muskegon-Holland                     
+304 MT     305480 Great Falls                                       
+308 WI     553222 Green Bay                                         
+312 NC    1580723 Greensboro--Winston-Salem--High Point             
+315 NC     338902 Greenville                                        
+316 SC    1412345 Greenville-Spartanburg-Anderson                   
+324 PA     826582 Harrisburg-Lebanon-Carlisle                       
+327 CT    1253863 Hartford                                          
+328 MS     328031 Hattiesburg                                       
+329 NC     508892 Hickory-Morganton-Lenoir                          
+332 HI    1211489 Honolulu                                          
+335 LA     224833 Houma                                             
+340 wv     777017 Huntington-Ashland, WV-KY-OH                      
+344 AL     448293 Huntsville                                        
+348 IN    1810456 Indianapolis                                      
+350 IA     259048 Iowa City                                         
+352 MI     164501 Jackson                                           
+356 MS    1054143 Jackson                                           
+358 TN     454685 Jackson                                           
+359 FL    1391162 Jacksonville                                      
+360 NC     294161 Jacksonville                                      
+361 NY     264167 Jamestown                                         
+362 WI     215862 Janesville-Beloit                                 
+366 TN    1110812 Johnson City-Kingsport-Bristol, TN-VA             
+368 PA     402407 Johnstown                                         
+370 AR     509011 Jonesboro                                         
+371 MO     388706 Joplin                                            
+372 MI     541848 Kalamazoo-Battle Creek                            
+376 MO    2088367 Kansas City, MO-KS                                
+381 TX     373325 Killeen-Temple                                    
+384 TN    1291938 Knoxville                                         
+385 IN     192767 Kokomo                                            
+387 WI     335919 La Crosse, WI-MN                                  
+388 LA     600614 Lafayette                                         
+392 IN     288974 Lafayette                                         
+396 LA     256844 Lake Charles                                      
+398 FL     599944 Lakeland-Winter Haven                             
+400 PA     471237 Lancaster                                         
+404 MI     601007 Lansing-East Lansing                              
+408 TX     292770 Laredo                                            
+410 NM     325686 Las Cruces                                        
+412 NV    1727660 Las Vegas, NV-AZ                                  
+415 KS     122606 Lawrence                                          
+420 OK     300481 Lawton                                            
+424 ME     391062 Lewiston-Auburn                                   
+428 KY     948115 Lexington                                         
+432 OH     334541 Lima                                              
+436 NE     703281 Lincoln                                           
+440 AR    1014435 Little Rock-North Little Rock                     
+442 TX     335392 Longview-Marshall                                 
+452 KY    1543194 Louisville, KY-IN                                 
+460 TX     401170 Lubbock                                           
+464 VA     319147 Lynchburg                                         
+468 GA     626933 Macon                                             
+472 WI     673988 Madison                                           
+480 OH     332312 Mansfield                                         
+484 PR     302480 Mayaguez                                          
+488 TX     637494 McAllen-Edinburg-Mission                          
+489 OR     419346 Medford-Ashland                                   
+490 FL     513708 Melbourne-Titusville-Palm Bay                     
+492 TN    1603657 Memphis, TN-AR-MS                                 
+494 CA     211526 Merced                                            
+512 MN    3515466 Minneapolis-St. Paul, MN-WI                       
+514 MT     355558 Missoula                                          
+516 AL     655233 Mobile                                            
+517 CA     492161 Modesto                                           
+520 LA     372107 Monroe                                            
+524 AL     534111 Montgomery                                        
+528 IN     210850 Muncie                                            
+533 SC     340913 Myrtle Beach                                      
+534 FL     269441 Naples                                            
+536 TN    1933000 Nashville                                         
+552 CT     298714 New London-Norwich, CT-RI                         
+556 LA    1491415 New Orleans                                       
+572 VA    1836062 Norfolk-Virginia Beach-Newport News, VA-NC        
+579 FL     350429 Ocala                                             
+580 TX     459295 Odessa-Midland                                    
+588 OK    1393575 Oklahoma City                                     
+592 NE     924237 Omaha, NE-IA                                      
+596 FL    1672109 Orlando                                           
+599 KY     211607 Owensboro                                         
+601 FL     207329 Panama City                                       
+602 WV     347735 Parkersburg-Marietta, WV-OH                       
+608 FL     436576 Pensacola                                         
+612 IL     487391 Peoria-Pekin                                      
+620 AZ    3364636 Phoenix-Mesa                                      
+624 AR     337036 Pine Bluff                                        
+628 PA    2845451 Pittsburgh                                        
+632 MA     135692 Pittsfield                                        
+634 ID     438969 Pocatello                                         
+636 PR     605123 Ponce                                             
+640 ME     424052 Portland                                          
+648 RI    1279617 Providence-Fall River-Warwick, RI-MA              
+652 UT     474547 Provo-Orem                                        
+656 CO     265156 Pueblo                                            
+658 FL     157425 Punta Gorda                                       
+664 NC    1478122 Raleigh-Durham-Chapel Hill                        
+666 SD     274592 Rapid City                                        
+668 PA     407707 Reading                                           
+669 CA     393095 Redding                                           
+672 NV     493915 Reno                                              
+674 WA     427961 Richland-Kennewick-Pasco                          
+676 VA    1169137 Richmond-Petersburg                               
+680 VA     578501 Roanoke                                           
+682 MN     327644 Rochester                                         
+684 NY    1261878 Rochester                                         
+688 IL     512707 Rockford                                          
+689 NC     305234 Rocky Mount                                       
+696 MI    1112010 Saginaw-Bay City-Midland                          
+698 MN     483232 St. Cloud                                         
+700 MO     203764 St. Joseph                                        
+704 MO    3580883 St. Louis, MO-IL                                  
+712 CA     440121 Salinas                                           
+716 UT    1573828 Salt Lake City-Ogden                              
+720 TX     196936 San Angelo                                        
+724 TX    1856099 San Antonio                                       
+732 CA    2813659 San Diego                                         
+746 CA     246300 San Luis Obispo-Atascadero-Paso Robles            
+748 CA     399242 Santa Barbara-Santa Maria-Lompoc                  
+749 NM     269204 Santa Fe                                          
+751 FL     608053 Sarasota-Bradenton                                
+752 GA     701524 Savannah                                          
+756 PA     832848 Scranton--Wilkes-Barre--Hazleton                  
+761 PA     234168 Sharon                                            
+762 WI     211759 Sheboygan                                         
+764 TX     294724 Sherman-Denison                                   
+768 LA     577747 Shreveport-Bossier City                           
+772 IA     413292 Sioux City, IA-NE                                 
+776 SD     613451 Sioux Falls                                       
+780 IN     334791 South Bend                                        
+784 WA     812740 Spokane                                           
+788 IL     353010 Springfield                                       
+792 MO     771281 Springfield                                       
+800 MA     685484 Springfield                                       
+805 PA     303278 State College                                     
+808 OH     144262 Steubenville-Weirton, OH-WV                       
+812 CA     590755 Stockton-Lodi                                     
+814 SC     168785 Sumter                                            
+816 NY     973824 Syracuse                                          
+824 FL     528139 Tallahassee                                       
+828 FL    2462941 Tampa-St. Petersburg-Clearwater                   
+832 IN     407551 Terre Haute                                       
+836 AR     321699 Texarkana, TX-Texarkana                           
+840 OH     917321 Toledo                                            
+844 KS     383893 Topeka                                            
+852 AZ    1006580 Tucson                                            
+856 OK    1219181 Tulsa                                             
+860 AL     556195 Tuscaloosa                                        
+864 TX     384150 Tyler                                             
+868 NY     442267 Utica-Rome                                        
+875 TX     180585 Victoria                                          
+878 CA     449589 Visalia-Tulare-Porterville                        
+880 TX     281560 Waco                                              
+892 IA     377628 Waterloo-Cedar Falls                              
+894 WI     537176 Wausau                                            
+896 FL    1176398 West Palm Beach-Boca Raton                        
+900 WV     294963 Wheeling, WV-OH                                   
+904 KS    1055786 Wichita                                           
+908 TX     251833 Wichita Falls                                     
+914 PA     239158 Williamsport                                      
+920 NC     300602 Wilmington                                        
+926 WA     345425 Yakima                                            
+928 PA     408467 York                                              
+932 OH     595686 Youngstown-Warren                                 
+934 CA     169038 Yuba City                                         
+936 AZ     171684 Yuma                                              
+
